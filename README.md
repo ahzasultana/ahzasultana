@@ -7,11 +7,11 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** C, C++, Python, Java, JavaScript
-* **Frontend:** HTML, CSS, React.js
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Tools:** Git, GitHub, VS Code
+* **Languages:** Python, Java, JavaScript
+* **Frontend:** HTML, CSS
+* **Backend:** Python 
+* **Database:** SQL
+* **Tools:** GitHub, VS Code
 
 ## 📌 Featured Projects
 
